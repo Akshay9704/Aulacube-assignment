@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/aulacube-assignment/static/css/main.5ea09ac8.css",
+    "main.js": "/aulacube-assignment/static/js/main.2c910dcc.js",
+    "index.html": "/aulacube-assignment/index.html",
+    "main.5ea09ac8.css.map": "/aulacube-assignment/static/css/main.5ea09ac8.css.map",
+    "main.2c910dcc.js.map": "/aulacube-assignment/static/js/main.2c910dcc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ea09ac8.css",
+    "static/js/main.2c910dcc.js"
+  ]
+}
